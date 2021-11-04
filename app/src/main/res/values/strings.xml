@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="January">months</string>
+    <string name="February">months</string>
+    <string name="March">months</string>
+    <string name="April">months</string>
+    <string name="May">months</string>
+    <string name="June">months</string>
+    <string name="July">months</string>
+    <string name="August">months</string>
+    <string name="September">months</string>
+    <string name="October">months</string>
+    <string name="November">months</string>
+    <string name="December">months</string>
+
+
+
+</resources>
